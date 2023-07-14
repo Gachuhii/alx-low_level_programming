@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-gnc $CFILE -S 
-=======
-gcc $CFILE -S
->>>>>>> 00351aa36ffeb51bea147520f999c2802b26060e
+gcc -S $CFILE 
